@@ -1,0 +1,11 @@
+Package: npkg
+Type: Package
+Title: Quickly Make New Packages Via Devtools
+Version: 0.0.0.9000
+Authors@R: person("Luke", "Johnston", email = "lwjohnst@gmail.com", role = c("aut", "cre"))
+Description: Simply a thin wrapper around devtools, so that new packages are
+    created with a few functions rather than the several that you would have to
+    type up for devtools.
+License: MIT + file LICENSE
+LazyData: TRUE
+Imports: devtools
