@@ -9,3 +9,5 @@ Description: Simply a thin wrapper around devtools, so that new packages are
 License: MIT + file LICENSE
 LazyData: TRUE
 Imports: devtools
+URL: https://github.com/lwjohnst86/npkg
+BugReports: https://github.com/lwjohnst86/npkg/issues
