@@ -20,5 +20,5 @@ Easy! :D
 No CRAN version. Just install using:
 
 ```R
-devtools::install_github('lwjohnst86/npkg')
+remotes::install_github('lwjohnst86/npkg')
 ```
